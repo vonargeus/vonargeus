@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="2000" viewBox="0 0 1200 2000">
+  <style>
+    .bg { fill: #000000; }
+    .title { fill:#FFFFFF; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif; font-size:40px; font-weight:600; }
+    .subtitle { fill:#FFFFFF; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif; font-size:20px; opacity:0.85; }
+    .section-title { fill:#FFFFFF; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif; font-size:26px; font-weight:600; }
+    .body { fill:#FFFFFF; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif; font-size:20px; opacity:0.9; }
+    .small { fill:#FFFFFF; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif; font-size:14px; opacity:0.7; }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="1200" height="2000" rx="32" />
+
+  <!-- Header icons -->
+  <image href="https://cdn.simpleicons.org/rocket/ffffff" x="330" y="40" width="155" height="155" />
+  <image href="vu_ams_transparent.png" x="515" y="58" width="308" />
+
+  <!-- Name -->
+  <text x="600.0" y="260" text-anchor="middle" class="title">
+    Hi, I'm M.Furkan
+  </text>
+
+  <!-- TR flag -->
+  <image href="https://flagcdn.com/w40/tr.png" x="550.0" y="285" width="40" height="40" />
+  <!-- NL flag -->
+  <image href="https://flagcdn.com/w40/nl.png" x="610.0" y="285" width="40" height="40" />
+
+  <!-- Typing line approximation -->
+  <text x="600.0" y="360" text-anchor="middle" class="subtitle">
+    AI Enthusiast · Clean Design Lover · Prototype Engineer
+  </text>
+
+  <!-- About Me -->
+  <text x="120" y="430" class="section-title">🧩 About Me</text>
+  <text x="140" y="470" class="body">• 🤖 AI &amp; data enthusiast</text>
+  <text x="140" y="500" class="body">• 🔍 Curious about how things work</text>
+  <text x="140" y="530" class="body">• 🧪 Building small tools &amp; prototypes</text>
+  <text x="140" y="560" class="body">• 📚 Learning a bit more every day</text>
+  <text x="140" y="590" class="body">• 🦅 Beşiktaş Fan</text>
+  <image href="https://cdn-icons-png.flaticon.com/512/4742/4742499.png" x="390" y="570" width="26" height="26" />
+
+  <!-- Core Stack -->
+  <text x="120" y="660" class="section-title">⚙️ Core Stack</text>
+  <image href="https://cdn.simpleicons.org/python/ffffff" x="140" y="690" width="60" height="60" />
+  <image href="https://cdn.simpleicons.org/javascript/ffffff" x="220" y="690" width="60" height="60" />
+  <image href="https://cdn.simpleicons.org/streamlit/ffffff" x="300" y="690" width="60" height="60" />
+  <image href="https://cdn.simpleicons.org/sqlite/ffffff" x="380" y="690" width="60" height="60" />
+
+  <!-- Tools & Skills -->
+  <text x="120" y="800" class="section-title">🛠 Tools &amp; Skills</text>
+  <image href="https://cdn.simpleicons.org/r/ffffff" x="140" y="830" width="60" height="60" />
+  <image href="https://cdn.simpleicons.org/git/ffffff" x="220" y="830" width="60" height="60" />
+  <image href="https://cdn.simpleicons.org/knowledgebase/ffffff" x="300" y="830" width="60" height="60" />
+  <image href="https://cdn.simpleicons.org/google/ffffff" x="380" y="830" width="60" height="60" />
+  <image href="https://cdn.simpleicons.org/html5/ffffff" x="460" y="830" width="60" height="60" />
+  <image href="https://cdn.simpleicons.org/jupyter/ffffff" x="540" y="830" width="60" height="60" />
+
+  <!-- Featured Projects -->
+  <text x="120" y="960" class="section-title">✦ Featured Projects</text>
+  <text x="140" y="1000" class="body">▹ Hackathon Hacker</text>
+  <text x="160" y="1030" class="subtitle">
+    Turns rough hackathon ideas into structured blueprints + auto-generated code via LLMs.
+  </text>
+
+  <text x="140" y="1090" class="body">▹ Steatosis Prediction (ML Models on NHANES III)</text>
+  <text x="160" y="1120" class="subtitle">
+    Analyzed NHANES III biomarkers to model liver steatosis and evaluate limits of non-imaging predictors.
+  </text>
+
+  <!-- Contact -->
+  <text x="120" y="1210" class="section-title">📬 Contact</text>
+  <image href="lkj.jpg" x="140" y="1240" height="50" width="50" />
+  <image href="https://cdn.simpleicons.org/gmail/ffffff" x="220" y="1245" height="43" width="60" />
+
+  <!-- Footer -->
+  <text x="600.0" y="1350" text-anchor="middle" class="small">
+    All rights belong to (The Reyiz) M.Furkan Kaya® — launched this README at 2AM.
+  </text>
+</svg>

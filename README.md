@@ -1,3 +1,114 @@
 <p align="center">
-  <img src="readmehide.png" width="100%" />
+  <img src="https://cdn.simpleicons.org/rocket/ffffff" width="155" style="margin-right:10px; vertical-align:middle;" />
+  <img src="vu_ams_transparent.png" width="308" style="vertical-align:middle; position:relative; top:12px;" />
+</p>
+
+
+
+<h1 align="center" style="font-weight:2;">
+  Hi, I'm M.Furkan
+  <img src="https://cdn-icons-png.flaticon.com/512/3014/3014006.png" 
+       height="26" 
+       style="vertical-align:middle; margin-left:1px;" />
+</h1>
+
+
+<p align="center">
+  <img src="https://flagcdn.com/w40/tr.png" width="40" />
+  <img width="10" />
+  <img src="https://flagcdn.com/w40/nl.png" width="40" />
+</p>
+
+<br>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&size=25&duration=2500&pause=475&color=EEEEEE&center=true&vCenter=true&width=650&lines=AI+Enthusiast;Clean+Design+Lover;Prototype+Engineer" />
+</p>
+
+
+---
+
+<br>
+
+### 🧩 About Me
+
+- 🤖 AI & data enthusiast  
+- 🔍 Curious about how things work  
+- 🧪 Building small tools & prototypes  
+- 📚 Learning a bit more every day  
+- 🦅 Beşiktaş Fan 
+  <img src="https://cdn-icons-png.flaticon.com/512/4742/4742499.png" 
+       height="22" 
+       style="vertical-align:middle; margin-left:6px;" />
+---
+
+<br>
+
+## ⚙️ Core Stack
+
+<p align="left">
+  <img height="60" src="https://cdn.simpleicons.org/python/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/javascript/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/streamlit/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/sqlite/ffffff" />
+</p>
+
+
+---
+
+<br>
+
+## 🛠 Tools & Skills
+
+<p align="left">
+  <img height="60" src="https://cdn.simpleicons.org/r/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/git/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/knowledgebase/ffffff" title="Protégé / Knowledge Graphs" />
+  <img height="60" src="https://cdn.simpleicons.org/google/ffffff" title="Gemini API" />
+  <img height="60" src="https://cdn.simpleicons.org/html5/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/jupyter/ffffff" />
+
+</p>
+
+
+
+<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonargeus&layout=compact&hide_border=true&theme=dark&text_color=ffffff&bg_color=00000000" />
+
+
+---
+
+<br>
+
+## ✦ Featured Project  
+### **▹ Hackathon Hacker**
+
+Turns rough hackathon ideas into structured blueprints + auto-generated code via LLMs.
+
+<p>
+  <a href="https://github.com/vonargeus/wtc-project">
+    <img src="https://img.shields.io/badge/View%20Project-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+###  ▹  Steatosis Prediction (ML Models on NHANES III) 
+
+Analyzed NHANES III biomarkers to model liver steatosis and evaluate diagnostic limitations of non-imaging predictors.
+
+---
+
+## 📬 Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammed-furkan-kayaa/"><img src="lkj.jpg" height="50" style="position:relative; top:6px;" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="24" height="1" /><a href="mailto:jubamfk@gmail.com" target="_blank"><img height="43" src="https://cdn.simpleicons.org/gmail/ffffff" style="opacity:0.95;" /></a>
+</p>
+
+
+
+---
+
+<p align="center">
+  <sub style="font-size:13px; opacity:0.7;">
+    All rights belong to (The Reyiz) M.Furkan Kaya® — launched this README at 2AM.
+  </sub>
 </p>

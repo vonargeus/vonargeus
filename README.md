@@ -1,11 +1,18 @@
-<!-- Small Space Shuttle at top -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vonargeus/vonargeus/main/discovery.jpg" width="120" style="border-radius: 8px;" />
+  <img src="https://cdn.simpleicons.org/rocket/ffffff" width="155" style="margin-right:10px; vertical-align:middle;" />
+  <img src="vu_ams_transparent.png" width="308" style="vertical-align:middle; position:relative; top:12px;" />
 </p>
 
-<h1 align="center">Hi, I’m Furkan 👋</h1>
 
-<!-- Flags -->
+
+<h1 align="center" style="font-weight:2;">
+  Hi, I'm M.Furkan
+  <img src="https://cdn-icons-png.flaticon.com/512/3014/3014006.png" 
+       height="26" 
+       style="vertical-align:middle; margin-left:1px;" />
+</h1>
+
+
 <p align="center">
   <img src="https://flagcdn.com/w40/tr.png" width="40" />
   <img width="10" />
@@ -14,74 +21,94 @@
 
 <br>
 
-<!-- Typing Animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=1300&pause=400&color=6AA6F7&center=true&vCenter=true&width=550&lines=AI+Student+🚀;Python+%7C+LLMs+%7C+Streamlit+🧠;Building+useful+things+⚙️;Learning+every+day+📚" />
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&size=25&duration=2500&pause=475&color=EEEEEE&center=true&vCenter=true&width=650&lines=AI+Enthusiast;Clean+Design+Lover;Prototype+Engineer" />
 </p>
 
----
-
-### 🚀 About Me
-- 🔧 AI and automation enthusiast  
-- 🧪 Love building fast prototypes and tools  
-- 🧠 Exploring LLM-powered systems  
-- 🎨 Focused on clean UI and smart engineering  
-- 🌍 Curious, creative, always learning  
 
 ---
-
-### 🛠 Tech Stack
-**Languages / Tools:**  
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
----
-
-### 🔥 Featured Project  
-**Hackathon Hacker 🛠️**  
-A Streamlit UI that turns rough hackathon ideas into structured blueprints and auto-generated code using the GreenPT API.  
-👉 [View project](https://github.com/vonargeus/wtc-project)
-
----
-
-## 💻 Additional Skills & Tools
-
-<img align="right" height="150" src="image" />
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" />
-</div>
 
 <br>
 
-<!-- Custom Contact Badges -->
-<div align="left">
+### 🧩 About Me
 
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-furkan%231234-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  </a>
+- 🤖 AI & data enthusiast  
+- 🔍 Curious about how things work  
+- 🧪 Building small tools & prototypes  
+- 📚 Learning a bit more every day  
+- 🦅 Beşiktaş Fan 
+  <img src="https://cdn-icons-png.flaticon.com/512/4742/4742499.png" 
+       height="22" 
+       style="vertical-align:middle; margin-left:6px;" />
+---
 
-  <a href="https://www.linkedin.com/in/muhammed-furkan-kayaa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Furkan_Kaya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
+<br>
 
-  <a href="mailto:jubamfk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jubamfk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
+## ⚙️ Core Stack
 
-</div>
+<p align="left">
+  <img height="60" src="https://cdn.simpleicons.org/python/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/javascript/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/streamlit/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/sqlite/ffffff" />
+</p>
+
 
 ---
 
-### 📬 Contact
-- **Email:** ✉️  jubamfk@gmail.com  
-- **LinkedIn:** 🔗 https://www.linkedin.com/in/muhammed-furkan-kayaa/
+<br>
+
+## 🛠 Tools & Skills
+
+<p align="left">
+  <img height="60" src="https://cdn.simpleicons.org/r/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/git/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/knowledgebase/ffffff" title="Protégé / Knowledge Graphs" />
+  <img height="60" src="https://cdn.simpleicons.org/google/ffffff" title="Gemini API" />
+  <img height="60" src="https://cdn.simpleicons.org/html5/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/jupyter/ffffff" />
+
+</p>
+
+
+
+<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonargeus&layout=compact&hide_border=true&theme=dark&text_color=ffffff&bg_color=00000000" />
+
+
+---
+
+<br>
+
+## ✦ Featured Project  
+### **▹ Hackathon Hacker**
+
+Turns rough hackathon ideas into structured blueprints + auto-generated code via LLMs.
+
+<p>
+  <a href="https://github.com/vonargeus/wtc-project">
+    <img src="https://img.shields.io/badge/View%20Project-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+###  ▹  Steatosis Prediction (ML Models on NHANES III) 
+
+Analyzed NHANES III biomarkers to model liver steatosis and evaluate diagnostic limitations of non-imaging predictors.
+
+---
+
+## 📬 Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammed-furkan-kayaa/"><img src="lkj.jpg" height="50" style="position:relative; top:6px;" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="24" height="1" /><a href="mailto:jubamfk@gmail.com" target="_blank"><img height="43" src="https://cdn.simpleicons.org/gmail/ffffff" style="opacity:0.95;" /></a>
+</p>
+
+
+
+---
+
+<p align="center">
+  <sub style="font-size:13px; opacity:0.7;">
+    All rights belong to (The Reyiz) M.Furkan Kaya® — launched this README at 2AM.
+  </sub>
+</p>

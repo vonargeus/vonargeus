@@ -100,7 +100,7 @@ Analyzed NHANES III biomarkers to model liver steatosis and evaluate diagnostic 
 ## 📬 Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammed-furkan-kayaa/"><img src="lkj.jpg" height="50" style="position:relative; top:6px;" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="24" height="1" /><a href="mailto:jubamfk@gmail.com" target="_blank"><img height="43" src="https://cdn.simpleicons.org/gmail/ffffff" style="opacity:0.95;" /></a>
+  <a href="https://www.linkedin.com/in/muhammed-furkan-kayaa/"><img src="lkj.jpg" height="50" style="position:relative; top:6px;" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="24" height="1" /><a href="mailto:mfurkankayaa0@gmail.com" target="_blank"><img height="43" src="https://cdn.simpleicons.org/gmail/ffffff" style="opacity:0.95;" /></a>
 </p>
 
 

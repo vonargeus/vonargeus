@@ -91,6 +91,16 @@ Turns rough hackathon ideas into structured blueprints + auto-generated code via
   </a>
 </p>
 
+### **▹ ChronoML — Time-Travel Debugging for ML Decisions**
+
+Trace, replay, and audit ML predictions across model versions with a simple FastAPI service.
+
+<p>
+  <a href="https://github.com/vonargeus/ChronoML">
+    <img src="https://img.shields.io/badge/View%20Project-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ###  ▹  Steatosis Prediction (ML Models on NHANES III) 
 
 Analyzed NHANES III biomarkers to model liver steatosis and evaluate diagnostic limitations of non-imaging predictors.

@@ -69,12 +69,9 @@
   <img height="60" src="https://cdn.simpleicons.org/html5/ffffff" />
   <img height="60" src="https://cdn.simpleicons.org/jupyter/ffffff" />
 
+<p align="right">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonargeus&layout=compact&hide_border=true&theme=dark&text_color=ffffff&bg_color=000000" />
 </p>
-
-
-
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonargeus&layout=compact&hide_border=true&theme=dark&text_color=ffffff&bg_color=00000000" />
-
 
 ---
 

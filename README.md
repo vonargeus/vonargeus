@@ -3,15 +3,10 @@
   <img src="vu_ams_transparent.png" width="308" style="vertical-align:middle; position:relative; top:12px;" />
 </p>
 
-
-
 <h1 align="center" style="font-weight:2;">
   Hi, I'm M.Furkan
-  <img src="https://cdn-icons-png.flaticon.com/512/3014/3014006.png" 
-       height="26" 
-       style="vertical-align:middle; margin-left:1px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3014/3014006.png" height="26" style="vertical-align:middle; margin-left:1px;" />
 </h1>
-
 
 <p align="center">
   <img src="https://flagcdn.com/w40/tr.png" width="40" />
@@ -21,11 +16,9 @@
 
 <br>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Manrope&size=25&duration=2500&pause=475&color=EEEEEE&center=true&vCenter=true&width=650&lines=AI+Enthusiast;Clean+Design+Lover;Prototype+Engineer" />
 </p>
-
 
 ---
 
@@ -38,9 +31,8 @@
 - 🧪 Building small tools & prototypes  
 - 📚 Learning a bit more every day  
 - 🦅 Beşiktaş Fan 
-  <img src="https://cdn-icons-png.flaticon.com/512/4742/4742499.png" 
-       height="22" 
-       style="vertical-align:middle; margin-left:6px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4742/4742499.png" height="22" style="vertical-align:middle; margin-left:6px;" />
+
 ---
 
 <br>
@@ -48,12 +40,13 @@
 ## ⚙️ Core Stack
 
 <p align="left">
-  <img height="60" src="https://cdn.simpleicons.org/python/ffffff" />
-  <img height="60" src="https://cdn.simpleicons.org/javascript/ffffff" />
-  <img height="60" src="https://cdn.simpleicons.org/streamlit/ffffff" />
-  <img height="60" src="https://cdn.simpleicons.org/sqlite/ffffff" />
+  <img height="60" src="https://cdn.simpleicons.org/python/ffffff" title="Python" />
+  <img height="60" src="https://cdn.simpleicons.org/fastapi/ffffff" title="FastAPI" />
+  <img height="60" src="https://cdn.simpleicons.org/javascript/ffffff" title="JavaScript" />
+  <img height="60" src="https://cdn.simpleicons.org/streamlit/ffffff" title="Streamlit" />
+  <img height="60" src="https://cdn.simpleicons.org/sqlite/ffffff" title="SQLite" />
+  <img height="60" src="https://cdn.simpleicons.org/docker/ffffff" title="Docker" />
 </p>
-
 
 ---
 
@@ -68,39 +61,47 @@
   <img height="60" src="https://cdn.simpleicons.org/google/ffffff" title="Gemini API" />
   <img height="60" src="https://cdn.simpleicons.org/html5/ffffff" />
   <img height="60" src="https://cdn.simpleicons.org/jupyter/ffffff" />
-
-<p align="right">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonargeus&layout=compact&hide_border=true&theme=dark&text_color=ffffff&bg_color=000000" />
 </p>
+
+<p>
+  <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=vonargeus&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="48%" />
+  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vonargeus&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="45%" />
+</p>
+
+<br clear="all" />
 
 ---
 
 <br>
 
-## ✦ Featured Project  
+## ✦ Featured Projects
+
 ### **▹ Hackathon Hacker**
-
-Turns rough hackathon ideas into structured blueprints + auto-generated code via LLMs.
-
+*LLM-powered blueprint generator for rapid prototyping.*
+- **Tech:** Python, Gemini API, Prompt Engineering
 <p>
   <a href="https://github.com/vonargeus/wtc-project">
     <img src="https://img.shields.io/badge/View%20Project-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-### **▹ ChronoML — Time-Travel Debugging for ML Decisions**
-
-Trace, replay, and audit ML predictions across model versions with a simple FastAPI service.
-
+### **▹ ChronoML**
+*Time-travel debugging and immutable prediction logging for ML systems.*
+- **Tech:** FastAPI, SQLite, Docker, Model Versioning
 <p>
   <a href="https://github.com/vonargeus/ChronoML">
     <img src="https://img.shields.io/badge/View%20Project-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-###  ▹  Steatosis Prediction (ML Models on NHANES III) 
-
-Analyzed NHANES III biomarkers to model liver steatosis and evaluate diagnostic limitations of non-imaging predictors.
+### **▹ Steatosis Prediction**
+*ML analysis on NHANES III biomarkers to model liver conditions.*
+- **Tech:** R, Scikit-learn, Feature Engineering
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Research%20Only-1A1A1A?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -109,8 +110,6 @@ Analyzed NHANES III biomarkers to model liver steatosis and evaluate diagnostic 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammed-furkan-kayaa/"><img src="lkj.jpg" height="50" style="position:relative; top:6px;" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="24" height="1" /><a href="mailto:mfurkankayaa0@gmail.com" target="_blank"><img height="43" src="https://cdn.simpleicons.org/gmail/ffffff" style="opacity:0.95;" /></a>
 </p>
-
-
 
 ---
 
